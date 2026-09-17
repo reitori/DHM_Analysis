@@ -1,7 +1,7 @@
 # DHM_Analysis
 
 Reconstruction and analysis code for an off-axis Mach–Zehnder digital holographic
-microscope, built for the Physics 5CL capstone project (Koji Abel, Jeremy Baden,
+microscope (Koji Abel, Jeremy Baden,
 Jarek Escobar).
 
 > Digital holographic microscopy (DHM) uses interference between a reference beam and
