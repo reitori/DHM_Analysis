@@ -1,13 +1,12 @@
 # DHM_Analysis
 
 Reconstruction and analysis code for an off-axis Mach–Zehnder digital holographic
-microscope (Koji Abel, Jeremy Baden,
-Jarek Escobar).
+microscope.
 
 > Digital holographic microscopy (DHM) uses interference between a reference beam and
 > an object beam to encode both amplitude and phase information in a single intensity
-> image. [...] The experiment demonstrated the core DHM pipeline — interferometric
-> encoding, Fourier-order isolation, complex-field reconstruction, and qualitative
+> image. [...] The experiment revolved around interferometric
+> design, Fourier-order isolation, complex-field reconstruction, and qualitative
 > sample validation.
 
 Full write-up, including theory, setup and results: [`Capstone_Report.pdf`](Capstone_Report.pdf).
